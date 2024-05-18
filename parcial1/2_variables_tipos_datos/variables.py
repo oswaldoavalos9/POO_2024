@@ -3,9 +3,9 @@
 #dato al momento de tuilizarlas
 
 #variables
-edad=30
-estatura=1.80
-email="jessrivera@utd.com"
+edad=18
+estatura=1.82
+email="oswaldo@gmail.com"
 logica=True
 caracter='@'
 

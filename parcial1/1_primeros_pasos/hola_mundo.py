@@ -1,1 +1,12 @@
-print("hola mundo")
+#crear un comentario en linea
+
+resultado=3+7
+print(resultado)
+
+print("Hola Mundo")
+print("Hola Mundo")
+
+a=30
+
+c=3+a
+print(c)

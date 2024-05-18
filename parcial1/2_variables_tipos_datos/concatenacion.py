@@ -1,6 +1,6 @@
 #Concatenar cadenas de caracteres con contenido de variables
 
-nombre="Jessica Rivera"
+nombre="oswaldo avalos"
 especialidad="Area de Desarrollo de SW Multiplataforma"
 carrera="Ingeniera en Gestión y Desarrollo de SW"
 

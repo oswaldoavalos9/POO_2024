@@ -22,8 +22,8 @@ lista=[10,20,30,40]
 lista2=["hola",True,'@',30,1.8]
 tupla=("Hola","como","estas?")
 diccionario={
-    "nombre":"Daniel",
-    "apellidos":"Contreras Ramirez",
+    "nombre":"oswaldo",
+    "apellidos":"avalos",
     "especialidad":"TI",
     "edad":20
 }
