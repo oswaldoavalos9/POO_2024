@@ -25,7 +25,7 @@ diccionario={
     "nombre":"oswaldo",
     "apellidos":"avalos",
     "especialidad":"TI",
-    "edad":20
+    "edad":18
 }
 #Mostrar los tipos de datos
 print(type(entero))
