@@ -1,7 +1,7 @@
 #Hacer un programa que muestre todos los numeros entre 2 numeros que diga el usuario
 
-a = int(input('cual es el primer numero: '))
-b = int(input('cual es el segundo numero: '))
+a = int(input("cual es el primer numero: "))
+b = int(input("cual es el segundo numero: "))
 
 i=0
 
