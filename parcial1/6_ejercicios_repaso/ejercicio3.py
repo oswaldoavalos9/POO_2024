@@ -23,5 +23,3 @@ while cont <= 59 :
  cuadradoss = cont ** 2
  print(cont,"² = ",cuadradoss) 
  
-
-
