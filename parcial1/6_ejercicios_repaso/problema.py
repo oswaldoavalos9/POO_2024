@@ -4,15 +4,14 @@
 
 
 while True:
-    try:
-        precio_sin_iva = float(input("Ingrese el precio del artículo sin IVA: ")) 
-        
-        precio_con_iva = precio_sin_iva * 1.16
-            
-        print(f"El precio a pagar por el artículo con IVA incluido es: {precio_con_iva:.2f}")
-    except ValueError:
-            print("Por favor, ingrese un número válido.")
-        
+    precio_s_IVA = int(input("¿cual es el precio del articulo? "))
+
+    precio_c_IVA = (precio_s_IVA * 0.16) + precio_s_IVA
+    print("el precio de tu producto con iva es: ",precio_c_IVA)
+
     continuar = input("¿Desea calcular el precio de otro artículo? (si/no): ")
-    if continuar.lower() != 'si':
-            break
+    
+
+    if continuar == ("no"):
+        print("Saliendo del programa...")
+        break
