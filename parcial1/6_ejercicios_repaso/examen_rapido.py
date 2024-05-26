@@ -34,8 +34,9 @@ while True:
      if por_sis <= 120 and por_dia <= 80 :
          
          print("estas sano")
-     
-     
+     else:
+      print("no esta sano")
+    
 
      respuesta = input("¿deseas otra captura?(SI/NO) ")
 
