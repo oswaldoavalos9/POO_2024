@@ -4,6 +4,6 @@
 
 while True:
     numero = int(input("Introduce un número: "))
-    if numero == 111:
+    if numero == 111 :
         print("¡Has introducido el número 111! Saliendo del programa...")
         break
