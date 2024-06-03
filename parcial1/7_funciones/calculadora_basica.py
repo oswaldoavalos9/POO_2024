@@ -37,4 +37,4 @@ elif opcion == "4" or opcion == "/" or opcion == "DIVISION":
  print(f"{n1}/{n2}={suma}")
 
 else:
- print("..::gracias por utilizar mi sistema::..")
+    print("..::gracias por utilizar mi sistema::..")
