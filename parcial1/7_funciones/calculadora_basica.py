@@ -39,8 +39,8 @@
 # else:
 #     print("..::gracias por utilizar mi sistema::..")
 
-import os
-
+import os 
+    
 def solicitarNumeros():
     global n1,n2
     n1=int(input("Numero # 1:"))
@@ -62,16 +62,20 @@ def calculadora(n1,n2,opcion):
     else:
         opcion=False
         return "Gracias por utilizar el sistema ..."
-            
+          
 os.system("cls")
 
 opcion=True
 while opcion:
+
+    os.system("cls")
     print("\n\t..::: CALCULADORA BÁSICA :::... \n 1.- Suma \n 2.- Resta \n 3.- Multiplicacion \n 4.- División \n 5.- SALIR ")
     opcion=input("\t Elige una opción: ").upper()
     if opcion != "5":
      solicitarNumeros()
      print(calculadora(n1,n2,opcion))
+     def espereTecla() :
+      espereTecla()
     else:
         opcion = False
         print("gracias por utilizar el sistema")
