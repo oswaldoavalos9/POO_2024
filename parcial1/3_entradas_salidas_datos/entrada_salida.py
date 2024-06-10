@@ -20,4 +20,3 @@ estatura=input("Estatura")
 print("hola")
 
 print(f"/t ..::::Datos del alumno:::../n Nombre: {nombre} /n Edad: {edad} /n Estatura: {estatura}") 
-print("")
