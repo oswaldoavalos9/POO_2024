@@ -6,4 +6,3 @@
 #  d.- mostrar su longitud
 #  e.- buscar algun elemento que el usuario pida por teclado
 
-print ("hola")
