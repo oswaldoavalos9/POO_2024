@@ -60,7 +60,7 @@ print(numeros)
 # recorrer la lista con for
 
 for i in numeros:
-    print(i)
+    print (i)
 
 # recorrer la lista con while
 i = 0

@@ -14,7 +14,7 @@ todos con diferentes calidades y usos.
 """
 
 tupla1 = ("apple", "banana", "cherry")
-print(tupla1)
+print (tupla1)
 
 
 tupla2 = ("abc", 34, True, 40, "male")

@@ -93,7 +93,7 @@ except TypeError:
 else: 
   print("finalizo correctanmente")
 finally:
-  print("listo se termino") 
+  print ("listo se termino") 
        
   
 

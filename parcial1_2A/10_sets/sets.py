@@ -15,7 +15,7 @@ personas.add("Carlos") #Se agrega con el orden que el set quiere
 print(personas)
 
 personas.remove("Ramiro")
-print(personas)
+print (personas)
 
 
 

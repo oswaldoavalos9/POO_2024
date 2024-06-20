@@ -30,7 +30,7 @@ print(alumnos)
 
 #Actualizar elementos
 alumnos.update({"telefono":6182334567})
-print(alumnos)
+print (alumnos)
 
 #Eliminar elementos
 alumnos.pop("semestres")
