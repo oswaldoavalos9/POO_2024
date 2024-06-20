@@ -92,7 +92,7 @@ while contador<=5 :
  suma+=contador
  contador+=1
 
-print(f"La suma es: {suma}")    
+print(f"La suma es:  {suma}")    
 
 # #Ejemplo 3 Crear un programa que imprima la tabla de multiplicar que el usuario desee
 
