@@ -161,4 +161,4 @@ while opcion:
     else:
         opcion = False
 >>>>>>> 25859170a0c301bb74334622a8104cfe9d1ef047
-        print("gracias por utilizar el sistema")
+print("gracias por utilizar el sistema")
