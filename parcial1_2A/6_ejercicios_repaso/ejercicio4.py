@@ -23,7 +23,7 @@ print("la multiplicacion de tus numeros es ",multiplicacion)
 # basicas de una calculadora (+,-,*,/)
 # y mostrar por pantalla el resultado
 
-print("2 numeros que quies realizar todas las operaciones basicas")
+print("2 numeros que quieres realizar todas las operaciones basicas")
 num1 = int(input("num1: "))
 num2 = int(input("num2: "))
 

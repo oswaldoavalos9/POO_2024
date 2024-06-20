@@ -31,4 +31,4 @@ for num_tabla in range (1,11):
          resultado = contador * num_tabla
 >>>>>>> 25859170a0c301bb74334622a8104cfe9d1ef047
 >>>>>>> ddb1045bbb29ea5fca236c962e8dd2c8efc2216f
-         print(num_tabla, "X ", contador , " = ",resultado)
+         print(num_tabla, "X ", contador , " = ",resultado) 

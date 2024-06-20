@@ -16,7 +16,7 @@ print(texto+" y soy otra cadena")
 numero=23
 numero_str=str(numero)
 
-print("el numero: "+numero_str)
+print("el numero:  "+numero_str)
 
 #para un solo paso
 print("el numero: "+str(numero))

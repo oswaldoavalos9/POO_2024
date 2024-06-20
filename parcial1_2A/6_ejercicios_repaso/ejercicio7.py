@@ -16,7 +16,7 @@ num2 = int(input("num2: "))
 if num1 > num2:
         num1, num2 = num2, num1
     
-print("Números impares entre", num1, "y", num2, "son:")
+print("Números impares entre ", num1, "y", num2, "son:")
 for i in range(num1, num2 + 1):
         if i % 2 != 0:
             print(i)

@@ -84,7 +84,7 @@ n2=33
 
 suma=int(n1)+n2
 
-print("el numero: "+str(suma))
+print("el numero:  "+str(suma))
 
 #concatenar un float con str
 
