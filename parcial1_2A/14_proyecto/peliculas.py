@@ -30,7 +30,7 @@ def eliminarPeliculas():
     i+=1    
       
   if not encontro:
-    print("La pelicula NO existe, no es posible eliminar")   
+    print("La pelicula NO existe, no se puede eliminar")   
 
 def consultarPeliculas():
    print(f"Las peliculas actuales: {peliculas}")
